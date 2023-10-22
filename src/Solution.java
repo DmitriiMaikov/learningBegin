@@ -5,8 +5,6 @@ public class Solution {
         System.out.println("My name is John");
         System.out.println("This is a happy day");
 
-
-
         System.out.println("This is a happy day");
         System.out.println("This is a happy day");
         System.out.println("This is a happy day");
